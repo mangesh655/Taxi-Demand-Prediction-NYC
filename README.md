@@ -45,7 +45,7 @@ You need to have installed following softwares and libraries in your machine bef
     * i) pip install gpxpy
     
 ## Authors ##
-• Mangesh Kokare - Complete work
+• Mangesh Kokare
 
 ## Acknowledgments ##
 • Applied AI Course
